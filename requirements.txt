@@ -7,3 +7,7 @@ langchain-google-genai
 langgraph
 langsmith
 langchain_tavily
+langchain_exa
+exa-py
+langchain-mcp-adapters
+mcp
